@@ -1,31 +1,57 @@
 body {
-   width:100% px;
+    width:100%;
     margin: auto;
     background-color: black;
-    border: dotted;     
-    
-    background: url(../WEB-INF/ conversion1.jpg);    
+    border: dotted;
+    background: url(../WEB-INF/ conversion1.jpg);
     background-size: cover;
-        
+
 }
 @media screen and (min-width: 600px) {
-  
-  body {
-      
-  }
 }
 
 h1 {
     background-color: darkblue;
     color: white;
-    text-align: center;  
+    text-align: center;
 }
 
 nav li {
     display: inline-block;
-    padding: 5px;   
+    padding: 5px;
+    color: white;  
+
 }
 
-.menuSuperior {   
-    font-size: xx-large;   
+.menuSuperior {
+    font-size: xx-large;
+}
+
+ul {
+  color: white;  
+    
+}
+
+p {
+  color: white;  
+    
+}
+
+footer  {
+  color: white;  
+    
+}
+
+a {
+  color: white;  
+    
+}
+
+h4 {
+  color: white;  
+    
+}
+h3 {
+  color: white;  
+    
 }
